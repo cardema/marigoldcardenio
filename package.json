@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build --base-href 'https://cardema.github.io/marigoldcardenio/'",
     "watch": "ng build --watch --configuration development",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d docs",
     "test": "ng test"
   },
   "private": true,
