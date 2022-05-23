@@ -37,6 +37,7 @@ $marigoldcardenio-theme: mat.define-light-theme((
 @include mat.all-component-themes($marigoldcardenio-theme);
 
 html, body { height: 100%; }
+
 body { 
     margin: 0; 
 }
