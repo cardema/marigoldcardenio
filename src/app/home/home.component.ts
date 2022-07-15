@@ -16,6 +16,15 @@ export class HomeComponent implements OnInit {
   }
 
   ngOnInit(): void {
+
+    /**
+     * ? hmmm...
+     * TODO: well a to do
+     * * general
+     * ! important!
+     * @param test heyyyyyy
+     */
+
   }
 
 }
